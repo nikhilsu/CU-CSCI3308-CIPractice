@@ -1,4 +1,4 @@
 language: c
 sudo: required
-script: make && make test
+script: make test
 install: make dep
